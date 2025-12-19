@@ -5,8 +5,11 @@ Clients book appointments, masters manage schedules, and owners see analytics �
 One-time payment. No SaaS. No subscriptions.
 
 👉 Try the demo or purchase the full version:
-- Demo: https://t.me/PaywallClubBot
-- Buy: [gumroad.com](https://pentogram.gumroad.com/l/xlbbb)
+- 🚀 [Demo on Telegram](https://t.me/PaywallClubBot)  
+- 💳 [Buy on Gumroad](https://pentogram.gumroad.com/l/xlbbb)  
+- 🛒 [Buy on Etsy](https://www.etsy.com/listing/4427062048/sistema-bronirovania-v-telegram-dla)  
+- 📦 [Buy on Payhip](https://payhip.com/b/8LY2T)  
+- ☕ [Buy on Ko-fi](https://ko-fi.com/s/937c0881d1)
 
 
 ---
