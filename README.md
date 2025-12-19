@@ -6,7 +6,7 @@ One-time payment. No SaaS. No subscriptions.
 
 👉 Try the demo or purchase the full version:
 - Demo: https://t.me/PaywallClubBot
-- Buy: [https://your-buy-link](https://pentogram.gumroad.com/l/xlbbb)
+- Buy: [gumroad.com](https://pentogram.gumroad.com/l/xlbbb)
 
 
 ---
@@ -70,20 +70,30 @@ Everything happens inside Telegram.
 
 ## Screenshots
 
-### Client booking flow
-![Main menu](screenshots/main_menu.jpg)
-![Service selection](screenshots/service_selection.jpg)
-![Date selection](screenshots/date_selection.jpg)
-![Time selection](screenshots/time_selection.jpg)
-![Upcoming bookings](screenshots/upcoming_bookings.jpg)
+<details>
+  <summary><b><u>Client booking flow</u></b></summary>
 
-### Master & Admin
-![Master schedule](screenshots/master_schedule.jpg)
-![Admin analytics](screenshots/admin_stats.jpg)
-![Admin panel](screenshots/admin_panel.jpg)
-![Admin settings](screenshots/admin_settings.jpg)
+  ![Main menu](screenshots/main_menu.jpg)  
+  ![Service selection](screenshots/service_selection.jpg)  
+  ![master_card](screenshots/master_card.jpg)  
+  ![Date selection](screenshots/date_selection.jpg)  
+  ![Time selection](screenshots/time_selection.jpg)  
+  ![Payment method](screenshots/payment_method.jpg)  
+  ![Online payment](screenshots/online_payment.jpg)  
+  ![Upcoming bookings](screenshots/upcoming_bookings.jpg)  
+</details>
 
+<details>
+  <summary>Master & Admin</summary>
 
+  ![Master schedule](screenshots/master_schedule.jpg)  
+  ![master_booking_detail](screenshots/master_booking_detail.jpg)  
+  ![Admin analytics](screenshots/admin_stats.jpg)  
+  ![Admin panel](screenshots/admin_panel.jpg)  
+  ![Admin settings](screenshots/admin_settings.jpg)  
+</details>
+
+---
 
 ## Features
 
