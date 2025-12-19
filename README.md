@@ -4,6 +4,11 @@ A ready-to-use, self-hosted Telegram booking system for beauty salons and small 
 Clients book appointments, masters manage schedules, and owners see analytics — all inside Telegram.  
 One-time payment. No SaaS. No subscriptions.
 
+👉 Try the demo or purchase the full version:
+- Demo: https://t.me/PaywallClubBot
+- Buy: [https://your-buy-link](https://pentogram.gumroad.com/l/xlbbb)
+
+
 ---
 
 ## ⚠️ Important
@@ -62,6 +67,23 @@ Perfect if you:
 Everything happens inside Telegram.
 
 ---
+
+## Screenshots
+
+### Client booking flow
+![Main menu](screenshots/main_menu.jpg)
+![Service selection](screenshots/service_selection.jpg)
+![Date selection](screenshots/date_selection.jpg)
+![Time selection](screenshots/time_selection.jpg)
+![Upcoming bookings](screenshots/upcoming_bookings.jpg)
+
+### Master & Admin
+![Master schedule](screenshots/master_schedule.jpg)
+![Admin analytics](screenshots/admin_stats.jpg)
+![Admin panel](screenshots/admin_panel.jpg)
+![Admin settings](screenshots/admin_settings.jpg)
+
+
 
 ## Features
 
