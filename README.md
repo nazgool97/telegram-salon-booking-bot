@@ -1,3 +1,4 @@
+![Self-hosted](https://img.shields.io/badge/self--hosted-yes-brightgreen)
 # Telegram Salon Booking Bot
 
 A ready-to-use, self-hosted Telegram booking system for beauty salons and small businesses.  
