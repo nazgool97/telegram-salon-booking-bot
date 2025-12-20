@@ -111,31 +111,6 @@ Everything happens inside Telegram.
 
 ---
 
-## Demo
-
-A demo bot is available to explore the booking flow.
-
-👉 Demo link: **(add your demo bot or demo page here)**
-
-Note:  
-Demo may have limited functionality and is for preview purposes only.
-
----
-
-## Purchase & License
-
-This is a **paid product**.
-
-- One-time payment
-- No subscriptions
-- No SaaS
-- Self-hosted
-- Lifetime access to the purchased version
-
-👉 Purchase here: **(Gumroad / Ko-fi / Payhip link)**
-
----
-
 ## What is NOT included
 
 Please note:
