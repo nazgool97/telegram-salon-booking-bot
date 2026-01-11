@@ -11,10 +11,10 @@ Clients book appointments, masters manage schedules, and owners manage operation
 
 ## 🚀 Try the demo or get the full version
 
-- 🤖 **Demo on Telegram** — https://t.me/PaywallClubBot  
-- 💳 **Buy on Gumroad** — https://pentogram.gumroad.com/l/xlbbb  
-- 📦 **Buy on Payhip** — https://payhip.com/b/8LY2T  
-- ☕ **Buy on Ko-fi** — https://ko-fi.com/s/937c0881d1
+[![Telegram Demo](https://img.shields.io/badge/Telegram-Demo-blue?logo=telegram)](https://t.me/PaywallClubBot)
+[![Gumroad](https://img.shields.io/badge/Gumroad-Buy-orange?logo=gumroad)](https://pentogram.gumroad.com/l/xlbbb)
+[![Payhip](https://img.shields.io/badge/Payhip-Buy-green?logo=paypal)](https://payhip.com/b/8LY2T)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy-red?logo=kofi)](https://ko-fi.com/s/937c0881d1)
 
 ---
 
@@ -107,8 +107,8 @@ Everything happens **inside Telegram**.
 <summary><b><u>Telegram Mini App — Client Booking Interface</u></b></summary>
 
   ![Mini App Home](screenshots/webapp_home.jpg)
-  ![Mini App My upcoming isits](screenshots/webapp_upcoming_visits.jpg)
-  ![Mini App My history isits](screenshots/webapp_history_visits.jpg)
+  ![Mini App My upcoming visits](screenshots/webapp_upcoming_visits.jpg)
+  ![Mini App My history visits](screenshots/webapp_history_visits.jpg)
   ![Mini App Choose a master](screenshots/webapp_choose_a_master.jpg)
   ![Mini App Choose a day](screenshots/webapp_choose_a_day.jpg)
   ![Mini App Choose a time](screenshots/webapp_choose_a_time.jpg)
@@ -133,13 +133,13 @@ Everything happens **inside Telegram**.
 ## ✨ Key Features
 
 - Client self-booking  
-- Telegram Mini App for clients (mobile-friendly UI)
+- Telegram Mini App for clients (mobile-friendly UI)  
 - Multi-master support  
 - Admin dashboard  
 - Booking analytics  
 - Telegram-native UX  
 - Docker-based deployment  
-- Fully self-hosted (you own your data)
+- Fully self-hosted (you own your data — all information stays with the owner, no third‑party services)
 
 ---
 
