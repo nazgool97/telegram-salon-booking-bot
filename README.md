@@ -20,7 +20,7 @@ Clients book appointments, masters manage schedules, and owners manage operation
 
 ## 📬 Contact
 
-Telegram: **@tartz_brewer**
+Telegram: **[@tartz_brewer](https://t.me/tartz_brewer)**
 
 ---
 
@@ -33,7 +33,9 @@ It is a **public product showcase and documentation** page.
 
 ## 🧩 What is this?
 
-**Telegram Salon Booking Bot** is a complete **self-hosted appointment booking system** that runs fully inside Telegram.
+**Telegram Salon Booking Bot** is a complete **self-hosted appointment booking system** that runs fully inside Telegram —  
+including a modern **Telegram Mini App** for clients with a smooth mobile-first booking experience.
+
 
 It replaces:
 - manual booking in chats  
@@ -61,6 +63,9 @@ Perfect if you:
 ---
 
 ## 🧭 How it works
+
+The system works both through classic Telegram chat UI and a modern **Telegram Mini App** interface.
+
 
 ### For Clients
 - Choose service  
@@ -99,7 +104,7 @@ Everything happens **inside Telegram**.
 </details>
 
 <details>
-  <summary><b><u>Telegram Mini App (Client)</u></b></summary>
+<summary><b><u>Telegram Mini App — Client Booking Interface</u></b></summary>
 
   ![Mini App Home](screenshots/webapp_home.jpg)
   ![Mini App My upcoming isits](screenshots/webapp_upcoming_visits.jpg)
@@ -128,6 +133,7 @@ Everything happens **inside Telegram**.
 ## ✨ Key Features
 
 - Client self-booking  
+- Telegram Mini App for clients (mobile-friendly UI)
 - Multi-master support  
 - Admin dashboard  
 - Booking analytics  
@@ -163,6 +169,7 @@ Built for **real small businesses**.
 
 No overengineering.  
 No bloated dashboards.  
+Designed with a strong focus on Telegram-native UX and frictionless booking for non-technical business owners.
 Just practical automation that saves time and prevents mistakes.
 
 ---
