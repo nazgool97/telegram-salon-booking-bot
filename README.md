@@ -1,135 +1,170 @@
-# Telegram Salon Booking Bot
+![Self-hosted](https://img.shields.io/badge/self--hosted-yes-brightgreen)
 
-A ready-to-use, self-hosted Telegram booking system for beauty salons and small businesses.  
-Clients book appointments, masters manage schedules, and owners see analytics — all inside Telegram.  
-One-time payment. No SaaS. No subscriptions.
+# 💇‍♂️ Telegram Salon Booking Bot
+
+A ready-to-use, **self-hosted Telegram booking system** for beauty salons and small businesses.  
+Clients book appointments, masters manage schedules, and owners manage operations — **all inside Telegram**.
+
+**One-time payment · No SaaS · No subscriptions**
+
+---
+
+## 🚀 Try the demo or get the full version
+
+- 🤖 **Demo on Telegram** — https://t.me/PaywallClubBot  
+- 💳 **Buy on Gumroad** — https://pentogram.gumroad.com/l/xlbbb  
+- 📦 **Buy on Payhip** — https://payhip.com/b/8LY2T  
+- ☕ **Buy on Ko-fi** — https://ko-fi.com/s/937c0881d1
+
+---
+
+## 📬 Contact
+
+Telegram: **@tartz_brewer**
 
 ---
 
 ## ⚠️ Important
+
 This repository does **NOT** contain source code.  
-It is a public product overview and documentation page.
+It is a **public product showcase and documentation** page.
 
 ---
 
-## What is this?
+## 🧩 What is this?
 
-Telegram Salon Booking Bot is a **self-hosted appointment booking system** that works полностью inside Telegram.
+**Telegram Salon Booking Bot** is a complete **self-hosted appointment booking system** that runs fully inside Telegram.
 
 It replaces:
-- manual booking in chats
-- spreadsheets
-- missed messages
-- double bookings
+- manual booking in chats  
+- spreadsheets  
+- missed messages  
+- double bookings  
 
-The bot automates the entire booking flow while staying **simple and human-friendly**.
+The result: **automated scheduling with a clean, human-friendly experience**.
 
 ---
 
-## Who is it for?
+## 🎯 Who is it for?
 
-This bot is designed for:
+Designed for:
 - Beauty salons  
 - Barbershops  
 - Local service businesses  
-- Solo masters and small teams  
+- Solo specialists & small teams  
 
 Perfect if you:
-- already use Telegram with clients
-- want less manual work
-- don’t want subscriptions or SaaS platforms
+- already communicate with clients via Telegram  
+- want fewer mistakes and less manual work  
+- don’t want SaaS, subscriptions, or vendor lock-in  
 
 ---
 
-## How it works
+## 🧭 How it works
 
-**For clients**
-- Choose service
-- Choose master
-- Choose date & time
-- Confirm booking
+### For Clients
+- Choose service  
+- Choose master  
+- Choose date & time  
+- Confirm booking  
 
-**For masters**
-- View schedule
-- See upcoming appointments
-- Manage availability
+### For Masters
+- View schedule  
+- Manage availability  
+- See upcoming appointments  
 
-**For owner**
-- Full overview of bookings
-- Basic analytics
-- Control services and masters
+### For Owners
+- Full booking overview  
+- Analytics & performance stats  
+- Services & staff management  
 
-Everything happens inside Telegram.
-
----
-
-## Features
-
-- Client self-booking
-- Master schedules
-- Admin panel
-- Analytics overview
-- Multi-master support
-- Telegram-native UX
-- Docker-based deployment
-- Self-hosted (you own your data)
+Everything happens **inside Telegram**.
 
 ---
 
-## Demo
+## 🖼 Screenshots
 
-A demo bot is available to explore the booking flow.
+<details>
+  <summary><b><u>Client booking flow</u></b></summary>
 
-👉 Demo link: **(add your demo bot or demo page here)**
+  ![Main menu](screenshots/main_menu.jpg)  
+  ![Service selection](screenshots/service_selection.jpg)  
+  ![Master card](screenshots/master_card.jpg)  
+  ![Date selection](screenshots/date_selection.jpg)  
+  ![Time selection](screenshots/time_selection.jpg)  
+  ![Payment method](screenshots/payment_method.jpg)  
+  ![Online payment](screenshots/online_payment.jpg)  
+  ![Upcoming bookings](screenshots/upcoming_bookings.jpg)  
 
-Note:  
-Demo may have limited functionality and is for preview purposes only.
+</details>
 
----
+<details>
+  <summary><b><u>Telegram Mini App (Client)</u></b></summary>
 
-## Purchase & License
+  ![Mini App Home](screenshots/webapp_home.jpg)
+  ![Mini App My upcoming isits](screenshots/webapp_upcoming_visits.jpg)
+  ![Mini App My history isits](screenshots/webapp_history_visits.jpg)
+  ![Mini App Choose a master](screenshots/webapp_choose_a_master.jpg)
+  ![Mini App Choose a day](screenshots/webapp_choose_a_day.jpg)
+  ![Mini App Choose a time](screenshots/webapp_choose_a_time.jpg)
+  ![Mini App Check details](screenshots/webapp_check_details.jpg)
+  ![Mini App Booked](screenshots/webapp_booked.jpg)
+  ![Mini App Book cart](screenshots/webapp_book_cart.jpg)
+</details>
 
-This is a **paid product**.
+<details>
+  <summary><b><u>Master & Admin panels</u></b></summary>
 
-- One-time payment
-- No subscriptions
-- No SaaS
-- Self-hosted
-- Lifetime access to the purchased version
+  ![Master schedule](screenshots/master_schedule.jpg)  
+  ![Booking details](screenshots/master_booking_detail.jpg)  
+  ![Admin analytics](screenshots/admin_stats.jpg)  
+  ![Admin panel](screenshots/admin_panel.jpg)  
+  ![Admin settings](screenshots/admin_settings.jpg)  
 
-👉 Purchase here: **(Gumroad / Ko-fi / Payhip link)**
-
----
-
-## What is NOT included
-
-Please note:
-- ❌ No custom development
-- ❌ No installation service
-- ❌ No SaaS or hosted version
-
-This product is delivered as-is.
-
----
-
-## Support
-
-I provide **friendly support for my own products**:
-- help with basic setup questions
-- guidance for using the bot
-
-Support does not include custom features or modifications.
+</details>
 
 ---
 
-## Philosophy
+## ✨ Key Features
 
-I build tools for **real businesses**.
+- Client self-booking  
+- Multi-master support  
+- Admin dashboard  
+- Booking analytics  
+- Telegram-native UX  
+- Docker-based deployment  
+- Fully self-hosted (you own your data)
+
+---
+
+## 🚫 What is NOT included
+
+- ❌ No custom development  
+- ❌ No installation service  
+- ❌ No SaaS or hosted version  
+
+The product is delivered **as-is**.
+
+---
+
+## 🧑‍💻 Support
+
+I provide **friendly support** for this product:
+- help with setup  
+- guidance on usage  
+
+Custom feature development is not included.
+
+---
+
+## 🧠 Philosophy
+
+Built for **real small businesses**.
 
 No overengineering.  
-No unnecessary complexity.  
-Just practical automation that saves time and makes life easier.
+No bloated dashboards.  
+Just practical automation that saves time and prevents mistakes.
 
 ---
 
-If your business works in Telegram — this bot was built for you.
+If your business runs on Telegram — **this bot was built for you**.
