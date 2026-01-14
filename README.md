@@ -11,10 +11,10 @@ Clients book appointments, masters manage schedules, and owners manage operation
 
 ## 🚀 Try the demo or get the full version
 
-[![Telegram Demo](https://img.shields.io/badge/Telegram-Demo-blue?logo=telegram)](https://t.me/PaywallClubBot)
-[![Gumroad](https://img.shields.io/badge/Gumroad-Buy-orange?logo=gumroad)](https://pentogram.gumroad.com/l/xlbbb)
-[![Payhip](https://img.shields.io/badge/Payhip-Buy-green?logo=paypal)](https://payhip.com/b/8LY2T)
-[![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy-red?logo=kofi)](https://ko-fi.com/s/937c0881d1)
+- [![Telegram Demo](https://img.shields.io/badge/Telegram-Demo-blue?logo=telegram)](https://t.me/PaywallClubBot)
+- [![Gumroad](https://img.shields.io/badge/Gumroad-Buy-orange?logo=gumroad)](https://pentogram.gumroad.com/l/xlbbb)
+- [![Payhip](https://img.shields.io/badge/Payhip-Buy-green?logo=paypal)](https://payhip.com/b/8LY2T)
+- [![Ko-fi](https://img.shields.io/badge/Ko--fi-Buy-red?logo=kofi)](https://ko-fi.com/s/937c0881d1)
 
 ---
 
@@ -44,6 +44,49 @@ It replaces:
 - double bookings  
 
 The result: **automated scheduling with a clean, human-friendly experience**.
+
+---
+
+## 🖼 Screenshots
+
+<details>
+  <summary><b><u>CLIENT BOOKING FLOW</u></b></summary>
+
+  ![Main menu](screenshots/main_menu.jpg)  
+  ![Service selection](screenshots/service_selection.jpg)  
+  ![Master card](screenshots/master_card.jpg)  
+  ![Date selection](screenshots/date_selection.jpg)  
+  ![Time selection](screenshots/time_selection.jpg)  
+  ![Payment method](screenshots/payment_method.jpg)  
+  ![Online payment](screenshots/online_payment.jpg)  
+  ![Upcoming bookings](screenshots/upcoming_bookings.jpg)  
+
+</details>
+
+<details>
+<summary><b><u>TELEGRAM MINI APP — CLIENT BOOKING INTERFACE</u></b></summary>
+
+  ![Mini App Home](screenshots/webapp_home.jpg)
+  ![Mini App My upcoming visits](screenshots/webapp_upcoming_visits.jpg)
+  ![Mini App My history visits](screenshots/webapp_history_visits.jpg)
+  ![Mini App Choose a master](screenshots/webapp_choose_a_master.jpg)
+  ![Mini App Choose a day](screenshots/webapp_choose_a_day.jpg)
+  ![Mini App Choose a time](screenshots/webapp_choose_a_time.jpg)
+  ![Mini App Check details](screenshots/webapp_check_details.jpg)
+  ![Mini App Booked](screenshots/webapp_booked.jpg)
+  ![Mini App Book cart](screenshots/webapp_book_cart.jpg)
+</details>
+
+<details>
+  <summary><b><u>MASTER & ADMIN PANELS</u></b></summary>
+
+  ![Master schedule](screenshots/master_schedule.jpg)  
+  ![Booking details](screenshots/master_booking_detail.jpg)  
+  ![Admin analytics](screenshots/admin_stats.jpg)  
+  ![Admin panel](screenshots/admin_panel.jpg)  
+  ![Admin settings](screenshots/admin_settings.jpg)  
+
+</details>
 
 ---
 
@@ -84,49 +127,6 @@ The system works both through classic Telegram chat UI and a modern **Telegram M
 - Services & staff management  
 
 Everything happens **inside Telegram**.
-
----
-
-## 🖼 Screenshots
-
-<details>
-  <summary><b><u>Client booking flow</u></b></summary>
-
-  ![Main menu](screenshots/main_menu.jpg)  
-  ![Service selection](screenshots/service_selection.jpg)  
-  ![Master card](screenshots/master_card.jpg)  
-  ![Date selection](screenshots/date_selection.jpg)  
-  ![Time selection](screenshots/time_selection.jpg)  
-  ![Payment method](screenshots/payment_method.jpg)  
-  ![Online payment](screenshots/online_payment.jpg)  
-  ![Upcoming bookings](screenshots/upcoming_bookings.jpg)  
-
-</details>
-
-<details>
-<summary><b><u>Telegram Mini App — Client Booking Interface</u></b></summary>
-
-  ![Mini App Home](screenshots/webapp_home.jpg)
-  ![Mini App My upcoming visits](screenshots/webapp_upcoming_visits.jpg)
-  ![Mini App My history visits](screenshots/webapp_history_visits.jpg)
-  ![Mini App Choose a master](screenshots/webapp_choose_a_master.jpg)
-  ![Mini App Choose a day](screenshots/webapp_choose_a_day.jpg)
-  ![Mini App Choose a time](screenshots/webapp_choose_a_time.jpg)
-  ![Mini App Check details](screenshots/webapp_check_details.jpg)
-  ![Mini App Booked](screenshots/webapp_booked.jpg)
-  ![Mini App Book cart](screenshots/webapp_book_cart.jpg)
-</details>
-
-<details>
-  <summary><b><u>Master & Admin panels</u></b></summary>
-
-  ![Master schedule](screenshots/master_schedule.jpg)  
-  ![Booking details](screenshots/master_booking_detail.jpg)  
-  ![Admin analytics](screenshots/admin_stats.jpg)  
-  ![Admin panel](screenshots/admin_panel.jpg)  
-  ![Admin settings](screenshots/admin_settings.jpg)  
-
-</details>
 
 ---
 
